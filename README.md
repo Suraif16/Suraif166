@@ -60,6 +60,10 @@ src="https://img.shields.io/twitter/follow/Suraif_Muhammad?logo=twitter&style=fo
 
 <div width="100%" align="center"><a href="https://github.com/Suraif16/NTSF-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraif16&repo=NTSF-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Suraif16/NTSF-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraif16&repo=NTSF-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<b>Open Source Contributions </b>  
+
+[![@suraif16's Holopin board](https://holopin.me/suraif16)](https://holopin.io/@suraif16)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Suraif16"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
